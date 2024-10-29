@@ -4,5 +4,4 @@ const nextConfig = {
   distDir: 'build',
   output: 'standalone',
 };
-// jyhgjhgh
 export default nextConfig;
